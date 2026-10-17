@@ -204,3 +204,14 @@ This command displays the DNS resolver configuration of the Ubuntu virtual machi
 **Observation:** The configured DNS server was `10.0.2.3`.
 
 ![DNS resolver configuration](screenshots/PXL_20261017_134456711.jpg)
+3. Default Gateway Connectivity Test
+
+Command used: "ping -c 4 10.0.2.2"
+
+Purpose: To test whether the Ubuntu virtual machine can communicate with its default gateway.
+
+Observation: The gateway responded to all four ICMP echo requests, with 0% packet loss.
+
+Interpretation: The successful test confirms connectivity to the default gateway during this test. It does not, by itself, confirm that every other network destination is reachable.
+
+"Default gateway connectivity test" (screenshots/PXL_20261017_160105526.jpg)
