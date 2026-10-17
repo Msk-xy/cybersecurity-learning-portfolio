@@ -214,3 +214,4 @@ Observation: The gateway responded to all four ICMP echo requests, with 0% packe
 
 Interpretation: The successful test confirms connectivity to the default gateway during this test. It does not, by itself, confirm that every other network destination is reachable.
 ![Default gateway connectivity test](screenshots/PXL_20261017_160105526.jpg)
+![External connectivity tests](screenshots/PXL_20261017_161926621.jpg)
