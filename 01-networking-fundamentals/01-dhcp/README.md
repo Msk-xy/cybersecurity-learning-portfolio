@@ -195,3 +195,12 @@ Disclaimer: This is an educational lab performed in a virtual environment. The o
 This picture shows the IP address and routing table of my Ubuntu virtual machine.
 
 ![IP address and routing configuration](screenshots/PXL_20261017_134444793.jpg)
+### DNS Resolver Configuration
+
+**Command used:** `resolvectl status`
+
+This command displays the DNS resolver configuration of the Ubuntu virtual machine.
+
+**Observation:** The configured DNS server was `10.0.2.3`.
+
+![DNS resolver configuration](screenshots/PXL_20261017_134456711.jpg)
