@@ -190,3 +190,8 @@ This exercise helped develop practical understanding of:
 - Investigate DHCP snooping and related switch security controls.
 
 Disclaimer: This is an educational lab performed in a virtual environment. The observations and conclusions are limited to the tests documented above.
+### IP Address and Routing Configuration
+
+This picture shows the IP address and routing table of my Ubuntu virtual machine.
+
+![IP address and routing configuration](screenshots/PXL_20261017_134444793.jpg)
